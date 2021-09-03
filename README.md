@@ -1,6 +1,6 @@
 # CrowPi
 
-Official Elecrow CrowPi Repository
+Rubylark's sandbox forked from Elecrow-RD/CrowPi
 
 # What's new?
 
